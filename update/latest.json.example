@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "releaseDate": "2026-05-24",
+  "notes": "示例更新说明：\n- 优化迁移检查提醒 UI（重复 jar 分组展示）\n- 修复若干问题",
+  "downloadUrl": "https://www.sgu-server.xin/updates/releases/MC换端助手_0.2.1_x64-setup.exe",
+  "fileName": "MC换端助手_0.2.1_x64-setup.exe",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "fileSize": 52428800,
+  "minSupportedVersion": "0.1.0",
+  "releaseNotesUrl": "https://www.sgu-server.xin/updates/changelog/0.2.1.md",
+  "mandatory": false
+}
