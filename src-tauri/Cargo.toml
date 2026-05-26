@@ -2,7 +2,8 @@
 name = "mc-mod-migrator"
 version = "0.2.1"
 description = "MC Mod 换端助手"
-authors = ["you"]
+authors = ["米悠"]
+license = "MIT"
 edition = "2021"
 
 [lib]
